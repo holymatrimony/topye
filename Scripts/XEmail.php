@@ -1,3 +1,3 @@
 <?php
-    $email="goatinthegame@yandex.com";
+    $email="result1@my.com";
 ?>
